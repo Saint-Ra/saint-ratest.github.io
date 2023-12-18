@@ -48,7 +48,7 @@ hr {
 }
 body {
   background: url("../img/begger.jpg") no-repeat 0 0 fixed;
-  background-size: cover;
+  background-size: contain;
 }
 /*
  * Remove the gap between audio, canvas, iframes,
@@ -236,6 +236,7 @@ textarea {
   }
 
   h1 {
+    text-align: center;
     color: rgba(127, 255, 212, 0.96);
 
   }
