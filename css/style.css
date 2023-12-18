@@ -48,7 +48,7 @@ hr {
 }
 body {
   background: url("../img/begger.jpg") no-repeat 0 0 fixed;
-  background-size: cover;
+  background-size: auto;
 }
 /*
  * Remove the gap between audio, canvas, iframes,
