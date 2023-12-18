@@ -46,7 +46,10 @@ hr {
   margin: 1em 0;
   padding: 0;
 }
-
+body {
+  background: url("img/begger.png");
+  background-size: contain;
+}
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
