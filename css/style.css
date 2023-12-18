@@ -235,6 +235,10 @@ textarea {
     page-break-inside: avoid;
   }
 
+  h1 {
+    color: aquamarine;
+
+  }
   p,
   h2,
   h3 {
